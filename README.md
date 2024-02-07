@@ -1,6 +1,6 @@
 # Módulo 17 - Testes Mobile 2
 
-O exercício mostra o seguinte fluxo de testes: 
+### O exercício mostra o seguinte fluxo de testes: 
 - [x] Inicialização do aplicativo Woocommerce
 - [x] Login como gerente utilizando link da loja e credenciais
 - [x] Cadastro de um novo produto com sucesso
