@@ -1,0 +1,50 @@
+{
+  "uid" : "5d77fc0e6834120b",
+  "name" : "Should login with valid credentials",
+  "historyId" : "476426db26e63ffc313dd4d43ba59b66",
+  "time" : {
+    "start" : 1706370432668,
+    "stop" : 1706370461816,
+    "duration" : 29148
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "package",
+    "value" : "C:.Users.carol.Desktop.EBAC.TESTE DE SOFTWARE.testes-mobile-ebac-shop.test.specs.login.spec.js"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Access Admin Panel"
+  }, {
+    "name" : "feature",
+    "value" : "Access Admin Panel"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "ebac-qe"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5d77fc0e6834120b.json",
+  "parameterValues" : [ "ebac-qe" ]
+}

@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "C:.Users.carol.Desktop.EBAC.TESTE DE SOFTWARE.testes-mobile-ebac-shop.test.specs.login.spec.js",
+    "children" : [ {
+      "name" : "Should login with valid credentials",
+      "uid" : "fcb539551b37441d",
+      "parentUid" : "f7afce2bc3136701c36aebc4e3772f8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1706744758425,
+        "stop" : 1706744791673,
+        "duration" : 33248
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "ebac-qe" ]
+    } ],
+    "uid" : "C:.Users.carol.Desktop.EBAC.TESTE DE SOFTWARE.testes-mobile-ebac-shop.test.specs.login.spec.js"
+  } ]
+}
