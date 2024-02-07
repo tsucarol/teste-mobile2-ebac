@@ -5,6 +5,7 @@
 - [x] Login como gerente utilizando link da loja e credenciais
 - [x] Cadastro de um novo produto com sucesso
 
+-------------------------------------------------------------------------------------------------------------------------------
 Para conclusão do módulo, foram utilizadas as ferramentas `WebdriverIO`, `Appium` e a implementação da device farm `Sauce Labs`
 
 > [!NOTE]
